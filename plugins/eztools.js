@@ -46,7 +46,7 @@ async (conn, mek, m, { from, isGroup, groupMetadata, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363313124070136@newsletter',
-                    newsletterName: 'frediezra',
+                    newsletterName: 'mustaffamk',
                     serverMessageId: 143,
                 },
             },
@@ -167,7 +167,7 @@ cmd({
     let fontResults = data.result.map(font => '*' + font.name + ":*\n" + font.result).join("\n\n");
     
     // Message formatting
-    let message = `*✧FREDI MD✧ FANCY FONTS*:\n\n${fontResults}\n\n> *regards frediezra*`;
+    let message = `*✧MUSTAFFA MK✧ FANCY FONTS*:\n\n${fontResults}\n\n> *regards mustaffamk*`;
 
     // Sending the message with context info
     await conn.sendMessage(
@@ -180,7 +180,7 @@ cmd({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363313124070136@newsletter',
-            newsletterName: 'frediezra',
+            newsletterName: 'mustaffamk',
             serverMessageId: 143
           }
         }
@@ -219,7 +219,7 @@ async (conn, mek, m, { from, reply }) => {
         console.log('JSON response:', json);
 
         // Format the pickup line message
-        const pickupLine = `*Here's a pickup line for you:*\n\n"${json.pickupline}"\n\n> *© regards frediezra*`;
+        const pickupLine = `*Here's a pickup line for you:*\n\n"${json.pickupline}"\n\n> *© regards mustaffamk*`;
 
         // Send the pickup line to the chat
         await conn.sendMessage(from, { text: pickupLine }, { quoted: m });
