@@ -22,7 +22,7 @@ cmd({
     if (!_0x180808) {
       return _0x2710af("*Please provide a video tital or url*");
     }
-    _0x2710af("```© ✧FREDI MD✧ Gᴇɴᴇʀᴀᴛɪɴɢ Vɪᴅᴇᴏ Pʟᴇᴀsᴇ Wᴀɪᴛ...```");
+    _0x2710af("```© ✧MUSTAFFA MK✧ Gᴇɴᴇʀᴀᴛɪɴɢ Vɪᴅᴇᴏ Pʟᴇᴀsᴇ Wᴀɪᴛ...```");
     const _0x1c3fd5 = await yts(_0x180808);
     if (!_0x1c3fd5.videos || _0x1c3fd5.videos.length === 0x0) {
       return _0x2710af("❌ No results found for \"" + _0x180808 + "\".");
@@ -68,7 +68,7 @@ cmd({
     if (!_0x2b4b83) {
       return _0x31fd3f("*Please Rhodvick an audio title or url*");
     }
-    _0x31fd3f("```© ✧FREDI MD✧ Gᴇɴᴇʀᴀᴛɪɴɢ Sᴏɴɢ Pʟᴇᴀs Wᴀɪᴛ...```");
+    _0x31fd3f("```© ✧MUSTAFFA MK✧ Gᴇɴᴇʀᴀᴛɪɴɢ Sᴏɴɢ Pʟᴇᴀs Wᴀɪᴛ...```");
     const _0x116e0a = await yts(_0x2b4b83);
     if (!_0x116e0a.videos || _0x116e0a.videos.length === 0x0) {
       return _0x31fd3f("❌ No results found for \"" + _0x2b4b83 + "\".");
