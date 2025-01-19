@@ -14,9 +14,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.message }, caption: '> *© ✧FREDI MD✧ ' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.message }, caption: '> *© ✧MUSTAFFA MK✧ ' }, { quoted: mek });
     } catch (e) {
-        console.log(e); // ❯❯ ✧FREDI MD✧
+        console.log(e); // ❯❯ ✧MUSTAFFA MK✧
         reply(`єяяσя ƒєт¢нιηg ∂σg ιмαgє: ${e.message}`);
     }
 });
