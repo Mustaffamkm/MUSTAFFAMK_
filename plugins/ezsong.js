@@ -19,7 +19,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const data = search.videos[0];
         const url = data.url;
 
-        let desc = `*🎼 ✧FREDI MD✧  SONG DOWNLOADER . .⚙️*
+        let desc = `*🎼 ✧MUSTAFFA MK✧  SONG DOWNLOADER . .⚙️*
 
 🎼⚙️ TITLE - ${data.title}
 
@@ -36,7 +36,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *_A: Audio_*
 *_B: Document_*
 
-> *©regards frediezra*`;
+> *©regards MUSTAFFAMK*`;
 
         const vv = await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc }, { quoted: mek });
 
@@ -51,13 +51,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     case 'A':
                         let down = await fg.yta(url);
                         let downloadUrl = down.dl_url;
-                        await conn.sendMessage(from, { audio: { url:downloadUrl }, caption: '> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✧FREDI MD✧ *', mimetype: 'audio/mpeg'},{ quoted: mek });
+                        await conn.sendMessage(from, { audio: { url:downloadUrl }, caption: '> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✧MUSTAFFA MK✧ *', mimetype: 'audio/mpeg'},{ quoted: mek });
                         break;
                     case 'B':               
                         // Send Document File
                         let downdoc = await fg.yta(url);
                         let downloaddocUrl = downdoc.dl_url;
-                        await conn.sendMessage(from, { document: { url:downloaddocUrl }, caption: '> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✧FREDI MD✧ *', mimetype: 'audio/mpeg', fileName:data.title + ".mp3"}, { quoted: mek });
+                        await conn.sendMessage(from, { document: { url:downloaddocUrl }, caption: '> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✧MUSTAFFA MK✧ *', mimetype: 'audio/mpeg', fileName:data.title + ".mp3"}, { quoted: mek });
                         await conn.sendMessage(from, { react: { text: '✅', key: mek.key } })
                         break;
                     default:
@@ -92,7 +92,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const data = search.videos[0];
         const url = data.url;
 
-        let desc = `*📽️ ✧FREDI MD✧  VIDEO DOWNLOADER . .⚙️*
+        let desc = `*📽️ ✧MUSTAFFA MK✧  VIDEO DOWNLOADER . .⚙️*
 
 📽️⚙️ TITLE - ${data.title}
 
@@ -109,7 +109,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *_A: Video_*
 *_B: Document_*
 
-> *©regards frediezra*`;
+> *©regards MUSTAFFAMK*`;
 
         const vv = await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc }, { quoted: mek });
 
@@ -124,12 +124,12 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     case 'A':
                         let downvid = await fg.ytv(url);
                         let downloadvUrl = downvid.dl_url;
-                        await conn.sendMessage(from, { video : { url:downloadvUrl }, caption: '> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✧FREDI MD✧ *', mimetype: 'video/mp4'},{ quoted: mek });
+                        await conn.sendMessage(from, { video : { url:downloadvUrl }, caption: '> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✧MUSTAFFA MK✧ *', mimetype: 'video/mp4'},{ quoted: mek });
                         break;
                     case 'B':
                         let downviddoc = await fg.ytv(url);
                         let downloadvdocUrl = downviddoc.dl_url;
-                        await conn.sendMessage(from, { document: { url:downloadvdocUrl }, caption: '> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✧FREDI MD✧ *', mimetype: 'video/mp4', fileName:data.title + ".mp4" }, { quoted: mek });
+                        await conn.sendMessage(from, { document: { url:downloadvdocUrl }, caption: '> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✧MUSTAFFA MK✧ *', mimetype: 'video/mp4', fileName:data.title + ".mp4" }, { quoted: mek });
                         break;
                     default:
                         reply("Invalid option. Please select a valid option🔴");
