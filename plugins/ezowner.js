@@ -30,22 +30,22 @@ async (conn, mek, m, { from }) => {
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/2ia6od.jpeg' }, // Image URL from your request
-            caption: `╭━━〔 *✧FREDI MD✧* 〕━━┈⊷
+            caption: `╭━━〔 *✧MUSTAFFA MK✧* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
-┃◈┃• *Name* - ${ownerName}
-┃◈┃• *Number* ${ownerNumber}
-┃◈┃• *Version*: 1.0.0
+┃◈┃• *Name* - ${MUSTAFFA MK}
+┃◈┃• *Number* ${254758755663}
+┃◈┃• *Version*: 8.0.0
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> ©✧FREDI MD✧`, // Display the owner's details
+> ©✧MUSTAFFA MK✧`, // Display the owner's details
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363313124070136@newsletter',
-                    newsletterName: 'frediezra',
+                    newsletterName: 'mustaffamk',
                     serverMessageId: 143
                 }            
             }
@@ -53,7 +53,7 @@ async (conn, mek, m, { from }) => {
 
         // Send audio as per your request
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/Fred1e/fredi/raw/refs/heads/main/autovoice/contact.m4a' }, // Audio URL
+            audio: { url: 'https://github.com/Mustaffamkm/mustaffa/raw/refs/heads/main/autovoice/contact.m4a' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
