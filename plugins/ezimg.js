@@ -14,7 +14,7 @@ cmd({
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        if (!q) return reply("✧FREDI MD✧ Please provide a search query for the image.");
+        if (!q) return reply("✧MUSTAFFA MK✧ Please provide a search query for the image.");
 
         // Fetch image URLs from Google Custom Search API
         const searchQuery = encodeURIComponent(q);
@@ -39,9 +39,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             await conn.sendMessage(from, {
                 image: buffer,
                 caption: `
-            🌟 *✧FREDI MD✧ Image ${i + 1} from your search!* 🌟
+            🌟 *✧MUSTAFFA MK✧ Image ${i + 1} from your search!* 🌟
 
- © ✧FREDI MD✧
+ © ✧MUSTAFFA MK✧
 `
 }, { quoted: mek });
 }
