@@ -31,9 +31,9 @@ cmd({
 
             let sticker = new Sticker(nameJpg, {
                 pack: pushname, // The pack name
-                author: '✧FREDI MD✧', // The author name
+                author: '✧MUSTAFFA MK✧', // The author name
                 type: q.includes('--crop') || q.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
-                categories: ['🤩', '🎉'], // The sticker category
+                categories: ['🥳', '🎉'], // The sticker category
                 id: '12345', // The sticker id
                 quality: 75, // The quality of the output file
                 background: 'transparent', // The sticker background color (only for full stickers)
@@ -50,7 +50,7 @@ cmd({
                 pack: pushname, // The pack name
                 author: '✧FREDI MD✧', // The author name
                 type: q.includes('--crop') || q.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
-                categories: ['🤩', '🎉'], // The sticker category
+                categories: ['🥳', '🎉'], // The sticker category
                 id: '12345', // The sticker id
                 quality: 75, // The quality of the output file
                 background: 'transparent', // The sticker background color (only for full stickers)
