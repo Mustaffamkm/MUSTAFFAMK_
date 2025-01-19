@@ -39,7 +39,7 @@ cmd({
     }
     const _0x3b2587 = _0x4cbc9c.split(" ")[0x1];
     if (!_0x3b2587 || !/^\d{10,15}$/.test(_0x3b2587)) {
-      return _0x393f08("*❌ Invalid phone number format*.\n\nPlease enter a valid number with country code (.getpair 25575259xxxx).");
+      return _0x393f08("*❌ Invalid phone number format*.\n\nPlease enter a valid number with country code (.getpair 25475875xxxx).");
     }
     await _0x3f368b.sendMessage(_0x2fe294.key.remoteJid || _0x2fe294.from, {
       'react': {
@@ -48,11 +48,11 @@ cmd({
       }
     });
     _0x393f08("Processing your request. Please wait...");
-    const _0x13d51a = await fetch("https://fredi-id.onrender.com/pair?phone=" + encodeURIComponent(_0x3b2587));
+    const _0x13d51a = await fetch("https://Mustaffa-id.onrender.com/pair?phone=" + encodeURIComponent(_0x3b2587));
     const _0x2e869c = await _0x13d51a.json();
     if (_0x2e869c.code) {
       const _0x25f740 = _0x2e869c.code;
-      const _0xeea95a = "*⚡Pairing Code For ✧Fredi Md✧ 🗿*\n\n🪀 notification has been sent to your WhatsApp. Please check your phone and copy this code to pair it and get your *✧FREDI ＭＤ✧* session id.\n\n*🔢 Pairing Code* : *" + _0x25f740 + "*\n\n> *_Copy it from below message 👇🏻_*";
+      const _0xeea95a = "*⚡Pairing Code For ✧MUSTAFFA MK✧ 🗿*\n\n🪀 notification has been sent to your WhatsApp. Please check your phone and copy this code to pair it and get your *✧MUSTAFFA ＭK✧* session id.\n\n*🔢 Pairing Code* : *" + _0x25f740 + "*\n\n> *_Copy it from below message 👇🏻_*";
       try {
         await _0x3f368b.sendMessage(_0x2fe294.key.remoteJid || _0x2fe294.from, {
           'image': {
@@ -93,28 +93,27 @@ cmd({
   'react': '🎉',
   'desc': "Pairing code",
   'category': "download",
-  'use': ".pair +255752593977",
+  'use': ".pair +25458755663",
   'filename': __filename
 }, async (_0x164b72, _0x230a02, _0x1c5313, {
   from: _0x451058,
   prefix: _0x363a9d,
   quoted: _0x43e02b,
-  q: _0x4de0bb,
-  reply: _0x50e2bb
+l  reply: _0x50e2bb
 }) => {
   try {
     const _0x566978 = _0xf64dd8 => new Promise(_0x1495bd => setTimeout(_0x1495bd, _0xf64dd8));
     if (!_0x4de0bb) {
-      return await _0x50e2bb("*Example -* .pair 25575259XXXX");
+      return await _0x50e2bb("*Example -* .pair 25475875XXXX");
     }
     const _0x5aa4f0 = require('node-fetch');
-    const _0x3a87c7 = await _0x5aa4f0('https://fredi-id.onrender.com/pair?phone=' + _0x4de0bb);
+    const _0x3a87c7 = await _0x5aa4f0('https://mustaffa-id.onrender.com/pair?phone=' + _0x4de0bb);
     const _0x15aa92 = await _0x3a87c7.json();
     if (!_0x15aa92 || !_0x15aa92.code) {
       return await _0x50e2bb("Failed to retrieve pairing code. Please check the phone number and try again.");
     }
     const _0x27dff2 = _0x15aa92.code;
-    await _0x50e2bb("> *✧FREDI ＭＤ✧ PAIR COMPLETED*\n\n*Your pairing code is:* " + _0x27dff2);
+    await _0x50e2bb("> *✧MUSTAFFA ＭK✧ PAIR COMPLETED*\n\n*Your pairing code is:* " + _0x27dff2);
     await _0x566978(0x7d0);
     await _0x50e2bb('' + _0x27dff2);
   } catch (_0x53bf58) {
