@@ -6,7 +6,7 @@ const { fetchJson } = require('../lib/functions');
 cmd({
   pattern: "lyrics",
   alias: ["liri", "lyric"],
-  react: "💜",
+  react: "🥳",
   desc: "Get song lyrics.",
   category: "music",
   filename: __filename
