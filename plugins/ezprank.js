@@ -10,7 +10,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         const steps = [
-            '💻 *✧FREDI MD✧ HACKING SEQUENCE INITIATED...* 💻',
+            '💻 *✧MUSTAFFA MK✧ HACKING SEQUENCE INITIATED...* 💻',
             '',
             '*Loading encryption bypass modules...* 🔐',
             '*Establishing secure connection to mainframe...* 🌐',
@@ -35,7 +35,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
             '⚠️ _This is a simulated hacking activity for entertainment purposes._',
             '⚠️ _Remember: Ethical hacking ensures safety._',
             '',
-            '> *✧FREDI MD✧: HACKING SIMULATION COMPLETE* ☣'
+            '> *✧MUSTAFFA MK✧: HACKING SIMULATION COMPLETE* ☣'
         ];
 
         for (const step of steps) {
