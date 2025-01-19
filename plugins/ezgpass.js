@@ -47,7 +47,7 @@ cmd({
     };
     const _0x51f475 = _0x571dd4(_0x1fe8bf);
     await _0x1f40d4.sendMessage(_0x329458, {
-      'text': "🔐 *Your Strong Password* 🔐\n\nPlease find your generated password below:\n\n *✧FREDI 𝑀D✧*"
+      'text': "🔐 *Your Strong Password* 🔐\n\nPlease find your generated password below:\n\n *✧MUSTAFFA MK✧*"
     }, {
       'quoted': _0x2b6900
     });
@@ -58,6 +58,6 @@ cmd({
     });
   } catch (_0x1ad7bb) {
     console.log(_0x1ad7bb);
-    _0x1bb557("🚫✧FREDI 𝑀D✧ Error generating password🤕: " + _0x1ad7bb.message);
+    _0x1bb557("🚫✧MUSTAFFA MK✧ Error generating password🤕: " + _0x1ad7bb.message);
   }
 });
