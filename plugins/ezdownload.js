@@ -53,7 +53,7 @@ cmd({
     }
     _0x2a55b1.react('⬇️');
     let _0x3f9407 = await downloadTiktok(_0x11bfff);
-    let _0x4f6891 = "〔 *✧FREDI MD✧* 〕\n▸╭───────────\n▸┃๏ *TIKTOK DOWNLOADER*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *Title* - " + _0x3f9407.result.title + " \n╰━━━❐━⪼\n╭━❮ *Download Video* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *1*     ┃  *SD Quality*\n▸┃๏ *2*     ┃  *HD Quality*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *3*     ┃  *Audio*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© regards frediezra*";
+    let _0x4f6891 = "〔 *✧MUSTAFFA MK✧* 〕\n▸╭───────────\n▸┃๏ *TIKTOK DOWNLOADER*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *Title* - " + _0x3f9407.result.title + " \n╰━━━❐━⪼\n╭━❮ *Download Video* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *1*     ┃  *SD Quality*\n▸┃๏ *2*     ┃  *HD Quality*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *3*     ┃  *Audio*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© regards mustaffamk*";
     const _0x29dff7 = await _0x17ba40.sendMessage(_0x2af3cb, {
       'image': {
         'url': _0x3f9407.result.image
@@ -98,7 +98,7 @@ cmd({
               'video': {
                 'url': _0x27cf5f.dl_link.download_mp4_2
               },
-              'caption': "*© Powered Bʏ frediezra*"
+              'caption': "*© Powered BY mustaffamk*"
             }, {
               'quoted': _0x55381c
             });
@@ -165,7 +165,7 @@ cmd({
       }
     });
     const _0xba6170 = await facebook(_0x32da14);
-    const _0x8af79d = "〔 *✧FREDI MD✧* 〕\n▸╭───────────\n▸┃๏ *FB DOWNLOADER*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *Duration* - " + _0xba6170.result.duration + " \n╰━━━❐━⪼\n╭━❮ *Download Video* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *1.1*     ┃  *SD Quality*\n▸┃๏ *1.2*     ┃  *HD Quality*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n┃▸╭─────────────·๏\n▸┃๏ *2.1*     ┃  *Audio*\n▸┃๏ *2.2*     ┃  *Document*\n▸┃๏ *2.3*     ┃  *Voice*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© credits FrediEzra*";
+    const _0x8af79d = "〔 *✧MUSTAFFA MK✧* 〕\n▸╭───────────\n▸┃๏ *FB DOWNLOADER*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *Duration* - " + _0xba6170.result.duration + " \n╰━━━❐━⪼\n╭━❮ *Download Video* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *1.1*     ┃  *SD Quality*\n▸┃๏ *1.2*     ┃  *HD Quality*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n┃▸╭─────────────·๏\n▸┃๏ *2.1*     ┃  *Audio*\n▸┃๏ *2.2*     ┃  *Document*\n▸┃๏ *2.3*     ┃  *Voice*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© credits MustaffaMk*";
     const _0x1e4914 = await _0x463020.sendMessage(_0xd59c39, {
       'image': {
         'url': _0xba6170.result.thumbnail
@@ -318,7 +318,7 @@ cmd({
       'image': {
         'url': _0x5b0a7a
       },
-      'caption': "〔 *✧FREDI MD✧* 〕\n▸╭───────────\n▸┃๏ *TWITTER DOWNLOADER*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━❮ *Download Video* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *1.1*     ┃  *SD Quality*\n▸┃๏ *1.2*     ┃  *HD Quality*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *2.1*     ┃  *Audio*\n▸┃๏ *2.2*     ┃  *Document*\n▸┃๏ *2.3*     ┃  *Voice*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© regards frediezra*"
+      'caption': "〔 *✧MUSTAFFA MK✧* 〕\n▸╭───────────\n▸┃๏ *TWITTER DOWNLOADER*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━❮ *Download Video* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *1.1*     ┃  *SD Quality*\n▸┃๏ *1.2*     ┃  *HD Quality*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n▸╭─────────────·๏\n▸┃๏ *2.1*     ┃  *Audio*\n▸┃๏ *2.2*     ┃  *Document*\n▸┃๏ *2.3*     ┃  *Voice*\n▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© regards mustaffamk*"
     }, {
       'quoted': _0x5e34ab
     });
@@ -343,7 +343,7 @@ cmd({
             'video': {
               'url': _0x10c016
             },
-            'caption': "*© regards frediezra*"
+            'caption': "*© regards mustaffamk*"
           }, {
             'quoted': _0x4da097
           });
@@ -353,7 +353,7 @@ cmd({
               'video': {
                 'url': _0x51b7f4
               },
-              'caption': "*© regards frediezra*"
+              'caption': "*© regards mustaffamk*"
             }, {
               'quoted': _0x4da097
             });
@@ -374,8 +374,8 @@ cmd({
                     'url': _0x10c016
                   },
                   'mimetype': "audio/mpeg",
-                  'fileName': "FREDI/TWDL.mp3",
-                  'caption': "*© regards frediezra*"
+                  'fileName': "MUSTAFFA/TWDL.mp3",
+                  'caption': "*© regards mustaffamk*"
                 }, {
                   'quoted': _0x4da097
                 });
@@ -445,7 +445,8 @@ cmd({
     const _0x10a817 = _0x2a62ec.result.fileName || "mediafire_download";
     const _0x259baa = _0x2a62ec.result.fileType || "application/octet-stream";
     _0x1d4064.react('⬆️');
-    let _0x4ad462 = "〔 *✧FREDI MD✧* 〕\n▸╭───────────\n▸┃๏ *MFIRE DOWNLOADER*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *File Name* - " + _0x10a817 + " \n┇๏ *File Type* - " + _0x259baa + " \n╰━━━❐━⪼\n> *© regards frediezra*";
+    let _0x4ad462 = "〔 *✧MUSTAFFA MK✧* 〕\n▸╭───────────\n▸┃๏ *MFIRE DOWNLOADER*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *File Name* - " + _0x10a817 + " \n┇๏ *File Type* - " + _0x259baa + " \n╰━━━❐━⪼\n> *© regards mustaffamk
+      *";
     await _0xc60242.sendMessage(_0x3eb310, {
       'document': {
         'url': _0x338997
@@ -508,7 +509,7 @@ cmd({
           'url': _0x495822
         },
         'mimetype': 'video/mp4',
-        'caption': "> *© regards frediezra*"
+        'caption': "> *© regards mustaffamk*"
       }, {
         'quoted': _0x489a1e
       });
@@ -860,8 +861,8 @@ cmd({
                     'url': _0x13e7a7
                   },
                   'mimetype': "video/mp4",
-                  'fileName': "MR FRANK | " + _0x5ad7ef.title + ".mp4",
-                  'caption': _0x5ad7ef.title + " | *© regards frediezra*"
+                  'fileName': "MUSTAFFA MK | " + _0x5ad7ef.title + ".mp4",
+                  'caption': _0x5ad7ef.title + " | *© regards mustaffamk*"
                 }, {
                   'quoted': _0x50c272
                 });
@@ -923,7 +924,7 @@ cmd({
     let _0x59ba6b = '.' + _0xd2bf2d;
     let _0x5ba56e = _0x10c997.datalist.list[0x0].size / 0xf4240;
     let _0x24e318 = _0x5ba56e - _0x59ba6b;
-    let _0x5d8f45 = "〔 *FREDI APPSTORE* 〕\n▸╭───────────\n▸┃☞ *APK DOWNLOADER⁠*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇☞ *Name* - " + _0x10c997.datalist.list[0x0].name + " \n┇☞ *Size* - " + _0x24e318 + "MB \n┇☞ *Package* - " + _0x10c997.datalist.list[0x0]['package'] + " \n┇☞ *Updated On* - " + _0x10c997.datalist.list[0x0].updated + " \n┇☞ *Developer* - " + _0x10c997.datalist.list[0x0].developer.name + " \n╰━━━❐━⪼\n> *© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ FREDI MD*";
+    let _0x5d8f45 = "〔 *MUSTAFFA APPSTORE* 〕\n▸╭───────────\n▸┃☞ *APK DOWNLOADER⁠*\n▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇☞ *Name* - " + _0x10c997.datalist.list[0x0].name + " \n┇☞ *Size* - " + _0x24e318 + "MB \n┇☞ *Package* - " + _0x10c997.datalist.list[0x0]['package'] + " \n┇☞ *Updated On* - " + _0x10c997.datalist.list[0x0].updated + " \n┇☞ *Developer* - " + _0x10c997.datalist.list[0x0].developer.name + " \n╰━━━❐━⪼\n> *© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ MUSTAFFA MK*";
     await _0x43d4c5.react('⬆');
     await _0x34e5dd.sendMessage(_0x23d582, {
       'document': {
@@ -1132,7 +1133,7 @@ cmd({
         },
         'mimetype': _0x530ff0.data.result.mimetype,
         'fileName': _0x530ff0.data.result.fileName,
-        'caption': "*© regards frediezra"
+        'caption': "*© regards mustaffamk"
       }, {
         'quoted': _0x13f4cd
       });
