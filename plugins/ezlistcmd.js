@@ -315,7 +315,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/Fred1e/fredi/raw/refs/heads/main/autovoice/menu.mp3' },
+            audio: { url: 'https://github.com/Mustaffamkm/mustaffa/raw/refs/heads/main/autovoice/menu.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
