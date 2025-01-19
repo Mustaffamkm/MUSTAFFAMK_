@@ -13,16 +13,16 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `〔 *✧FREDI MD✧* 〕
+        const status = `〔 *✧MUSTAFFA MK✧* 〕
 ╭─────────────·๏
 ┃• *⏳Uptime*:  ${runtime(process.uptime())} 
 ┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}GB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}TB
 ┃• *⚙️ HostName*: ${os.hostname()}
-┃• *👨‍💻 Owner*: FREDIE TECH
+┃• *👨‍💻 Owner*: MUSTAFFA TECH
 ┃• *🧬 Version*: 1.1.1
-✧ FREDI MD ✧
+✧ MUSTAFFA MK ✧
 ╰──────────────┈◉
-> © ✧FREDI EZRA✧`;
+> © ✧MUSTAFFA MK✧`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
