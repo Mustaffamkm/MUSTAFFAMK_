@@ -1,12 +1,12 @@
 {
   "name": "baby-boy",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Fredie tech",
+  "description": "A WhatsApp Bot Created By MUSTAFFA MK",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Fredi_Md",
-    "stop": "pm2 stop Fredi_Md",
-    "restart": "pm2 restart Fredi_Md"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Mustaffa_Mk",
+    "stop": "pm2 stop Mustaffa_Mk",
+    "restart": "pm2 restart Mustaffa_Mk"
   },
    "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
