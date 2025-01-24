@@ -61,7 +61,7 @@
 
 
 Get session id by (PAIRING CODE2) 
-    <a href='https://mustaffa-id.onrender.com' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://fredie-id.onrender.com' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
 
@@ -226,7 +226,7 @@ I MD" height="300" src="https://files.catbox.moe/58p3eb.jpg">
 
 
 Get session id by (PAIRING CODE2) 
-    <a href='https://mustaffa-id.onrender.com' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://fredie-id.onrender.com' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
 
