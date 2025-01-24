@@ -291,7 +291,7 @@ Get session id by (PAIRING CODE2)
    
   
 3. Now Deploy Button Bot. 
-  <a href='https://replit.com/github/Fred1e/Fredi_Md' target="_blank"><img alt='replit' src='https://img.shields.io/badge/DEPLOY ON REPLIT-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
+  <a href='https://replit.com/github/Mustaffamkm/MUSTAFFAM_' target="_blank"><img alt='replit' src='https://img.shields.io/badge/DEPLOY ON REPLIT-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
 
 
 
@@ -304,7 +304,7 @@ Get session id by (PAIRING CODE2)
       5.After importing tap 👈 button down 👇 of replit dashboard. 
       6.Choose config.cjs file then put your session 🆔 and others you need. 
       7.Tap button written run to run your bot then go test it's work. 
-    THANK YOU FOR CHOOSING FREDI MD 
+    THANK YOU FOR CHOOSING MUSTAFFA MK
   
 
 
@@ -314,12 +314,12 @@ Get session id by (PAIRING CODE2)
 
 
 
-#### ***This One Is Another Mustaffamk Take Safe Bot In Heroku Called Lucky Md Open 🔓 There To Check ☑ This Have More Than 500 Plugins Enjoy***
+#### ***This One Is Another Mustaffamk Take Safe Bot In Heroku Called MUSTAFFA MK Open 🔓 There To Check ☑ This Have More Than 500 Plugins Enjoy***
 </details>
 
 <details>
-<summary>Tap To Check Lucky Md💯</summary>
- Lucky Md Info
+<summary>Tap To Check Mustaffa Mk💯</summary>
+ Mustaffa Mk Info
     <a href='https://github.com/Mustaffamkm/MUSTAFFAMK_' target="_blank"><img alt='Open Mustaffa Mk Repo Here😁' src='https://github.com/Mustaffamkm/MUSTAFFAMK_ Mustaffa Mk Repo Here😁-black?style=for-the-badge&logo=github&logoColor=green'/></a>
 
 
