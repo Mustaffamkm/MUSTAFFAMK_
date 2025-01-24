@@ -1,11 +1,11 @@
- <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
- <img alt="Mustaffa <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
- <img alt="FREDI MD" height="300" src="https://files.catbox.moe/58p3eb.jpg">
+ <a href="https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T">
+ <img alt="Mustaffa <a href="https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T">
+ <img alt="MUSTAFFA MK" height="300" src="https://files.catbox.moe/58p3eb.jpg">
 
   
 
   </h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>FREDI MD</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
+<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>MUSTAFFA MK</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
 
 
 
@@ -15,7 +15,7 @@
 
 1. Fork the repo
 
-<a href='https://github.com/Fred1e/Fredi_Md/fork' target="_blank"><img alt='fork bot repo here' src='https://img.shields.io/badge/fork repo-black?style=for-the-badge&logo=github&logoColor=blue'/></a>
+<a href='https://github.com/Mustaffamkm/MUSTAFFAMK_/fork' target="_blank"><img alt='fork bot repo here' src='https://img.shields.io/badge/fork repo-black?style=for-the-badge&logo=github&logoColor=blue'/></a>
 
 
 
@@ -314,19 +314,19 @@ Get session id by (PAIRING CODE2)
 
 
 
-#### ***This One Is Another Fredie Take Safe Bot In Heroku Called Lucky Md Open 🔓 There To Check ☑ This Have More Than 500 Plugins Enjoy***
+#### ***This One Is Another Mustaffamk Take Safe Bot In Heroku Called Lucky Md Open 🔓 There To Check ☑ This Have More Than 500 Plugins Enjoy***
 </details>
 
 <details>
 <summary>Tap To Check Lucky Md💯</summary>
  Lucky Md Info
-    <a href='https://github.com/Fred1e/LUCKY_MD' target="_blank"><img alt='Open Lucky Md Repo Here😁' src='https://img.shields.io/badge/Open Lucky Md Repo Here😁-black?style=for-the-badge&logo=github&logoColor=green'/></a>
+    <a href='https://github.com/Mustaffamkm/MUSTAFFAMK_' target="_blank"><img alt='Open Mustaffa Mk Repo Here😁' src='https://github.com/Mustaffamkm/MUSTAFFAMK_ Mustaffa Mk Repo Here😁-black?style=for-the-badge&logo=github&logoColor=green'/></a>
 
 
 All Information About Me 
-    <a href='https://fredi-bio.vercel.app/' target="_blank"><img alt='Owner Info Tap Here😎' src='https://img.shields.io/badge/Owner Info Tap Here😎-black?style=for-the-badge&logo=google&logoColor=red'/></a>
+    <a href='https://github.com/Mustaffamkm/MUSTAFFAMK_/' target="_blank"><img alt='Owner Info Tap Here😎' src='https://img.shields.io/badge/Owner Info Tap Here😎-black?style=for-the-badge&logo=google&logoColor=red'/></a>
 </details>
    
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='Tap on a clip to paste it in the text box.https://github.com/Mustaffamkm/MUSTAFFAMK_'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
