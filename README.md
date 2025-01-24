@@ -61,7 +61,7 @@
 
 
 Get session id by (PAIRING CODE2) 
-    <a href='https://mustaffamk-id.onrender.com' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://mustaffa-id.onrender.com' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
 
@@ -153,8 +153,8 @@ Get session id by (PAIRING CODE2)
 </details>
 
 <details>
-<summary>Tap To Check Lucky Md💯</summary>
- Lucky Md Info
+<summary>Tap To Check Mustaffa Mk💯</summary>
+ Mustaffa Mk Info
     <a href='https://github.com/Mustaffamkm/MUSTAFFAMK_' target="_blank"><img alt='Open Mustaffa Mk Repo Here😁' src='https://img.shields.io/badge/Open Mustaffa Mk Repo Here😁-black?style=for-the-badge&logo=github&logoColor=green'/></a>
 
 
@@ -226,7 +226,7 @@ I MD" height="300" src="https://files.catbox.moe/58p3eb.jpg">
 
 
 Get session id by (PAIRING CODE2) 
-    <a href='https://mustaffamk-id.onrender.com' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://mustaffa-id.onrender.com' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
 
