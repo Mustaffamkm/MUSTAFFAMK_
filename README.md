@@ -44,7 +44,7 @@
 
 <a href='t.me/mistaffatech' target="_blank"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram For Dev-black?style=for-the-badge&logo=telegram&logoColor=blue'/></a>
 
-<a href='https://t.me/+254758755663' target="_blank"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram Group-black?style=for-the-badge&logo=Telegram&logoColor=blue'/></a>
+<a href='https://t.me/254758755663' target="_blank"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram Group-black?style=for-the-badge&logo=Telegram&logoColor=blue'/></a>
 </details>
 
 
