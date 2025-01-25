@@ -1,7 +1,7 @@
 {
   "name": "✧MUSTAFFA MK✧",
   "description": "A Simple powerfull WhatsApp bot made by Mustaffa Mk",
-  "logo": "https://github.com/Mustaffamkm/mustaffa_Mk/mustaffa/mk.png",
+  "logo": "https://files.catbox.moe/58p3eb.jpg",
   "keywords": ["MUSTAFFA_MK"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/junvr3.jpeg"
+      "value": "https://files.catbox.moe/58p3eb.jpg"
     }, 
     
     "LIVE_MSG": {
