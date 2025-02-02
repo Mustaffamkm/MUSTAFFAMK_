@@ -1,8 +1,8 @@
 {
-  "name": "✧MUSTAFFA MK✧",
-  "description": "A Simple powerfull WhatsApp bot made by Mustaffa Mk",
-  "logo": "https://files.catbox.moe/58p3eb.jpg",
-  "keywords": ["MUSTAFFA_MK"],
+  "name": "✧FREDI MD✧",
+  "description": "A Simple powerfull WhatsApp bot made by Fredi Ezra",
+  "logo": "https://github.com/Fred1e/Fredi_Md/fredi/ezra.png",
+  "keywords": ["FREDI_MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/58p3eb.jpg"
+      "value": "https://files.catbox.moe/junvr3.jpeg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ✧MUSTAFFA MK✧ ALIVE AND ACTIVE ALL TIME💥"
+      "value": "> ✧FREDI MD✧ ALIVE AND ACTIVE ALL TIME💥"
     },
     
     "PREFIX": {
@@ -79,26 +79,26 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*💫👀 Seen by ✧MUSTAFFA MK✧*_regards mustaffamk_*🚀 💥*"
+      "value": "*💫👀 Seen by ✧FREDI MD✧*_regards frediezra_*🚀 💥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mustaffa"
+      "value": "Fredie"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "25458755663"
+      "value": "255752593977"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✧MUSTAFFA MK✧"
+      "value": "✧FREDI MD✧"
 
       }, 
 
@@ -118,7 +118,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✧MUSTAFFA MK✧ INC*"
+      "value": "*© ✧FREDI MD✧ INC*"
     },
 
       "DELETE_LINKS": {
