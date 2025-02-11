@@ -1,10 +1,10 @@
 {
-  "name": "GMAX-MD",
+  "name": "Mustaffa-mk",
   "version": "1.0.7",
   "description": "THE BEST BOT IN THE UNIVERSE",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name GMAX-MD",
+    "start": "pm2 start gaga.js --deep-monitoring --attach --name GMAX-MD",
     "stop": "pm2 stop GMAX-MD",
     "restart": "pm2 restart GMAX-MD"
   },
