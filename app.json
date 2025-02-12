@@ -1,14 +1,14 @@
 {
-  "name": "GAGA-MD",
+  "name": "MUSTAFFA-MK",
   "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Gmax",
-  "logo": "https://i.ibb.co/6BMJmGY/mrfrankofc.jpg",
-  "keywords": ["GAGA-MD"],
+  "logo": "https://i.ibb.co/2YpJYk3T/temp-image.jpg",
+  "keywords": ["MUSTAFFA-Mk"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Gmax session-id here.",
+      "description": "Put your Mustaffa session-id here.",
       "required": true,
       "value": ""
     },  
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "GAGA 𝙱𝙾𝚃"
+      "value": "MUSTAFFA 𝙱𝙾𝚃"
     }, 
       
     "PREFIX": {
@@ -73,27 +73,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝕲𝖒𝖆𝖝 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*Mustaffamk 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐆𝐦𝐚𝐱"
+      "value": "🕷️🕸️MUSTAFFA MK🕸️🕷️"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "2557538534XXXX"
+      "value": "254758755663"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "GMAX-MD"
+      "value": "MUSTAFFA-MD"
 
       }, 
 
@@ -113,7 +113,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ɢᴍᴀx*"
+      "value": "*© MUSTAFFA MK*"
     },
 
       "DELETE_LINKS": {
